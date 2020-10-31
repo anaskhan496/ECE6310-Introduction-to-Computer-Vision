@@ -50,11 +50,6 @@ Assignments of the Computer Vision course currently being offered in Fall 2020 a
 ## [Lab 3 Letters](https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab3-Letters)
 - From left to right: Original Binary Image, Thinned Image
 <p float="left">
-
-## [Lab 4 Segmentation-GUI](https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab4-Segmentation-GUI)
-<p float="left">
-  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab4-Segmentation-GUI/Region-Interaction.gif" />
-</p>
   <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Letters/binary.PNG" width="225" />
   <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Letters/thinned.PNG" width="225" />
 </p>
@@ -63,3 +58,22 @@ Assignments of the Computer Vision course currently being offered in Fall 2020 a
 <p float="left">
   <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Letters/untitled2.png" width="400" />
 </p>
+
+## [Lab 4 Segmentation-GUI](https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab4-Segmentation-GUI)
+<p float="left">
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab4-Segmentation-GUI/Region-Interaction.gif" />
+</p>
+
+## [Lab 5 Active-Contours](https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab5-Active-Contours)
+- From left to right: Original Image, Sobel Gradient Image
+<p float="left">
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab5-Active-Contours/hawk.PNG" width="275" />
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab5-Active-Contours/sobel-hawk.PNG" width="275" />
+</p>
+
+- From left to right: Intial Contour, Contour after Active Contours Algorithm
+<p float="left">
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab5-Active-Contours/hawk-initial-contours.PNG" width="275" />
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab5-Active-Contours/hawk-final-contours.PNG" width="275" />
+</p>
+
