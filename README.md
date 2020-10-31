@@ -50,6 +50,11 @@ Assignments of the Computer Vision course currently being offered in Fall 2020 a
 ## [Lab 3 Letters](https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab3-Letters)
 - From left to right: Original Binary Image, Thinned Image
 <p float="left">
+
+## [Lab 4 Segmentation-GUI](https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab4-Segmentation-GUI)
+<p float="left">
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab4-Segmentation-GUI/Region-Interaction.gif" />
+</p>
   <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Letters/binary.PNG" width="225" />
   <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Letters/thinned.PNG" width="225" />
 </p>
