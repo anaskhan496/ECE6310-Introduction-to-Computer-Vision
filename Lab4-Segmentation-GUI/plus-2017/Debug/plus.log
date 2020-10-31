@@ -1,0 +1,9 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.c
+C:\Users\khana\Desktop\Intro_to_CV_6310\lab4-new\plus-2017\main.c(323,58): warning C4047: 'function': 'BOOL *' differs in levels of indirection from 'BOOL **'
+C:\Users\khana\Desktop\Intro_to_CV_6310\lab4-new\plus-2017\main.c(323,53): warning C4024: 'GetDlgItemInt': different types for formal and actual parameter 3
+C:\Users\khana\Desktop\Intro_to_CV_6310\lab4-new\plus-2017\main.c(329,58): warning C4047: 'function': 'BOOL *' differs in levels of indirection from 'BOOL **'
+C:\Users\khana\Desktop\Intro_to_CV_6310\lab4-new\plus-2017\main.c(329,53): warning C4024: 'GetDlgItemInt': different types for formal and actual parameter 3
+C:\Users\khana\Desktop\Intro_to_CV_6310\lab4-new\plus-2017\main.c(500,118): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\khana\Desktop\Intro_to_CV_6310\lab4-new\plus-2017\main.c(529,14): warning C4244: 'function': conversion from 'double' to 'DWORD', possible loss of data
+  plus.vcxproj -> C:\Users\khana\Desktop\Intro_to_CV_6310\lab4-new\plus-2017\.\Debug\plus.exe

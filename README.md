@@ -46,3 +46,15 @@ Assignments of the Computer Vision course currently being offered in Fall 2020 a
   <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/1-ROC-Curve-Full-Threshold.PNG" width="375" />
   <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/1-ROC-Curve.PNG" width="375" />
 </p>
+
+## [Lab 3 Letters](https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab3-Letters)
+- From left to right: Original Binary Image, Thinned Image
+<p float="left">
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Letters/binary.PNG" width="225" />
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Letters/thinned.PNG" width="225" />
+</p>
+
+- Decreased False Positive Rate as Compared to only Matched Spatial Filtering
+<p float="left">
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Letters/untitled2.png" width="400" />
+</p>
