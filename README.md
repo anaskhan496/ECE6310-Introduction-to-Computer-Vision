@@ -77,3 +77,10 @@ Assignments of the Computer Vision course currently being offered in Fall 2020 a
   <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab5-Active-Contours/hawk-final-contours.PNG" width="275" />
 </p>
 
+## [Lab 8 Range Image Segmentation](https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab8-Range-Image-Segmentation)
+- Segmented Image with Labels and Surface Normals for Region Predicates
+<p float="left">
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab8-Range-Image-Segmentation/segmented-image.PNG" width="375" />
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab8-Range-Image-Segmentation/segmented-image-labels.PNG" width="400" />
+  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab8-Range-Image-Segmentation/vector.png" width="375" />
+</p>
